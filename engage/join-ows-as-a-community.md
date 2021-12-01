@@ -19,7 +19,3 @@ Get in contact with us by filling out our [**Project Opportunity Form**](https:/
 ### Promote your Community
 
 Request to join us for one of our weekly AMAs where we highlight and take audience questions about OWS communities. Fill out our [**AMA Guest Speaker Form**](https://airtable.com/shrhot4Y3NeHeAVNh) and we will get in contact with you.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
