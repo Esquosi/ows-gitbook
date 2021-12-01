@@ -90,7 +90,7 @@ That is all you need to include in the post! Click **+Create Topic** to finalise
 
 ### 5. Contact a Sandbox Moderator
 
-DM one of our Discord moderators (**before the 25th of each month**) the hyperlink to your forum post to let us know you have posted on our forum.
+DM **one** of our Discord moderators (**before the 25th of each month**) the hyperlink to your forum post to let us know you have posted on our forum.
 
 &#x20;**Discord moderators:**
 
@@ -100,6 +100,7 @@ DM one of our Discord moderators (**before the 25th of each month**) the hyperli
 * @p0k
 * @Monish016
 * @William X
+* @FritzWagner
 
 {% hint style="danger" %}
 Let one of the moderators know about your forum post <mark style="color:red;">**BEFORE THE 25th**</mark> of each month.&#x20;
