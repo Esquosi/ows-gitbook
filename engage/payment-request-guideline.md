@@ -8,7 +8,7 @@ Dear Sandboxers and NEARians,
 
 As of November 2021 all rewards for your contributions will be paid out through the [**Open Web Sandbox AstroDAO**](payment-request-guideline.md#steps.). This change is entirely in line with the core values of the NEAR Ecosystem: transparency and decentralization.
 
-Creating a proposal through the** **[**NEAR Forum**](https://gov.near.org/c/open-web-sandbox/59) is possible between 20th and 25th of each month (If you submit your forum post after 25th, it will be reviewed during the next payout period).
+Creating a proposal through the **** [**NEAR Forum**](https://gov.near.org/c/open-web-sandbox/59) is possible between 20th and 25th of each month (If you submit your forum post after 25th, it will be reviewed during the next payout period).
 
 Simply put, you will have to create a post on the NEAR governance forum where you describe all of your achievements, calculate your rewards based on the rolling opportunities list (or mention the reward in USD agreed on with the project/guild if you were working with one), contact one of the Sandbox moderators to confirm, and submit your proposal to the [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near).
 
@@ -18,19 +18,19 @@ Below you will find the detailed instructions for each step.
 
 ### 1. Contribution Form
 
-Fill in our [**Contributor Form**](https://airtable.com/shr4is9xLFYTgjUmX)** **(Only need to do this once)**.**
+Fill in our [**Contributor Form**](https://airtable.com/shr4is9xLFYTgjUmX) **** (Only need to do this once)**.**
 
 ****
 
 ### 2. NEAR Forum Account&#x20;
 
-Create an account on** **[**NEAR governance forum**](https://gov.near.org)** **(Only need to do this once).
+Create an account on **** [**NEAR governance forum**](https://gov.near.org) **** (Only need to do this once).
 
 
 
 ### 4. Payment request period
 
-<mark style="color:orange;">**Create a post**</mark> on the [**OWS NEAR Forum page**](https://gov.near.org/c/open-web-sandbox/59)** **claiming your monthly activity and rewards.&#x20;
+<mark style="color:orange;">**Create a post**</mark> on the [**OWS NEAR Forum page**](https://gov.near.org/c/open-web-sandbox/59) **** claiming your monthly activity and rewards.&#x20;
 
 ![Use this \[Title\] → “Sandbox \[Relevant month\] Reward Claim of \[Your discord handle\]”](<../.gitbook/assets/Forum screenshot.png>)
 
@@ -84,7 +84,7 @@ If you are claiming a reward from the list of **Project Opportunities**, then <m
 If you are applying for both **OWS Opportunities** AND **Project Opportunities**, please describe every single act in one post and make sure ALL of the calculations are included in the Estimated Final Reward.&#x20;
 {% endhint %}
 
-That is all you need to include in the post! Click **+Create Topic **to finalise the step - you have successfully submitted your post!
+That is all you need to include in the post! Click **+Create Topic** to finalise the step - you have successfully submitted your post!
 
 
 
@@ -92,10 +92,9 @@ That is all you need to include in the post! Click **+Create Topic **to finalise
 
 DM one of our Discord moderators (**before the 25th of each month**) the hyperlink to your forum post to let us know you have posted on our forum.
 
-** Discord moderators:**
+&#x20;**Discord moderators:**
 
 * @esquosi
-* @Aluminium\_foil
 * @vrdoingthings
 * @nastique
 * @p0k
@@ -110,7 +109,7 @@ Our team will have between the 25th-30th to review all submitted proposals. This
 
 During the **review period** there is no action for you to take.&#x20;
 
-At the end of the **review period** (on the 30th or 31st), a document with all the approved proposals will be posted on Discord with converted rates ($USD > $NEAR). Once you find your approved proposal in the document with the final reward converted to NEAR, you may create a proposal on our new [**Open Web Sandbox AstroDAO. **](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)****
+At the end of the **review period** (on the 30th or 31st), a document with all the approved proposals will be posted on Discord with converted rates ($USD > $NEAR). Once you find your approved proposal in the document with the final reward converted to NEAR, you may create a proposal on our new [**Open Web Sandbox AstroDAO.** ](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)****
 
 {% hint style="danger" %}
 Starting from November, every project and guild on NEAR using SputnikDAO will be switching to the <mark style="color:red;">**NEW**</mark> **AstroDAO** (the new official NEAR DAO platform). OWS will also be switching to AstroDAO so make sure you follow the NEW steps correctly.&#x20;
@@ -120,7 +119,7 @@ Starting from November, every project and guild on NEAR using SputnikDAO will be
 
 ### Step 6
 
-* <mark style="color:orange;">**Create an on-chain proposal**</mark>** **on our NEW** **[**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)**.**
+* <mark style="color:orange;">**Create an on-chain proposal**</mark>** ** on our NEW **** [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)**.**
 
 ![](<../.gitbook/assets/Screenshot 2021-11-15 at 10.12.09.png>)
 
