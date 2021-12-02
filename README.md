@@ -14,6 +14,12 @@ The mission of the Open Web Sandbox narrows down to providing the necessary guid
 
 So, where should you start?
 
+If you want a visual introduction to our website, checkout this brief introductory video:
+
+{% embed url="https://youtu.be/0kjzIqqje5Y" %}
+How to navigate our new website.&#x20;
+{% endembed %}
+
 ### Engage
 
 If you want to join OWS and start engaging in the ecosystem, jump straight into the section that best describes you or your community/organisation:
@@ -36,8 +42,8 @@ If you are already a contributor and just want to see the up-to-date list of pro
 
 If you want to learn more about OWS and the technology behind it, this is the section for you. For a quick introduction to OWS, see this:
 
-{% content-ref url="learn/what-is-ows.md" %}
-[what-is-ows.md](learn/what-is-ows.md)
+{% content-ref url="learn/what-is-ows/" %}
+[what-is-ows](learn/what-is-ows/)
 {% endcontent-ref %}
 
 If you want to learn more about blockchain fundamentals and what blockchains can do, see here:

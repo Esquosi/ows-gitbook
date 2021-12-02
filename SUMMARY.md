@@ -13,7 +13,8 @@
 
 ## 🌐 Learn
 
-* [What is OWS?](learn/what-is-ows.md)
+* [What is OWS?](learn/what-is-ows/README.md)
+  * [Discord](learn/what-is-ows/discord.md)
 * [What can blockchains do?](learn/what-can-blockchains-do/README.md)
   * [📶 DeFi](learn/what-can-blockchains-do/defi.md)
   * [👾 NFTs](learn/what-can-blockchains-do/nfts.md)

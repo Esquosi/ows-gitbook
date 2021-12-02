@@ -1,4 +1,12 @@
+---
+description: Optional template for funding requests on the NEAR Forum.
+---
+
 # Pitch Starter Kit
+
+{% embed url="https://youtu.be/9ke2A6bJUR0" %}
+How to get funding through the NEAR Forum.&#x20;
+{% endembed %}
 
 ### **Who is this document for?**
 
