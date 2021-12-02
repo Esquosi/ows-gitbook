@@ -2,7 +2,7 @@
 description: Brief introduction on how to navigate our docs.
 ---
 
-# Welcome to the OWS Docs
+# Welcome to the OWS Docs!
 
 Hello to you Sandboxer!&#x20;
 
@@ -14,7 +14,7 @@ The mission of the Open Web Sandbox narrows down to providing the necessary guid
 
 So, where should you start?
 
-If you want a visual introduction to our website, checkout this brief introductory video:
+If you want a visual introduction to our website, check out this brief introductory video:
 
 {% embed url="https://youtu.be/0kjzIqqje5Y" %}
 How to navigate our new website.&#x20;

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the OWS Docs](README.md)
+* [Welcome to the OWS Docs!](README.md)
 
 ## 🧊 Engage
 
