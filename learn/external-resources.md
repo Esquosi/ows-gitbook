@@ -9,3 +9,4 @@ description: Here is a short list of external resources related to blockchain an
 * [NEAR Docs](https://docs.near.org/docs/develop/basics/getting-started)
 * [NEAR Ecosystem](https://near.org/ecosystem/)
 * [Awesome NEAR](https://awesomenear.com)
+* [4NTS Documentation](https://nearguilds.com/documentation/)
