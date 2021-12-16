@@ -1,3 +1,7 @@
+---
+description: A brief overview.
+---
+
 # Philosophy and the Open Web
 
 Blockchain has steadily grown to become the most innovative and revolutionary technology of the 21st century. Its ability to transfer value across networks in ways that obviate the need for traditional intermediaries allows for the development of different patterns of interactions between humans, having broad implications for various areas of our lives. Blockchain, for instance, could become a tracking register for much of world activity; essentially the whole of a society’s memory, a tool for more profoundly automating human patterns, and integrating human and technological activity (Melanie Swan, 2015).&#x20;

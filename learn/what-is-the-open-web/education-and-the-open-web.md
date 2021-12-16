@@ -1,5 +1,5 @@
 ---
-description: A Brief Introduction.
+description: A brief overview.
 ---
 
 # Education and the Open Web

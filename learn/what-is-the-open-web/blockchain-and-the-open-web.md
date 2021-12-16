@@ -1,5 +1,5 @@
 ---
-description: A Brief Introduction.
+description: A brief overview.
 ---
 
 # Blockchain and the Open Web

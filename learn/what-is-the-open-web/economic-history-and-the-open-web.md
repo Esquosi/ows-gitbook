@@ -1,3 +1,7 @@
+---
+description: A brief overview.
+---
+
 # Economic History and the Open Web
 
 Economic Historians have the noble task of explaining how value has evolved over time: In specific societies, in relation to the development of new technologies, and across ever changing geopolitical landscapes. The history of economics, the rise and fall of different economies in history, and the many lessons about economic development and the accumulation of wealth, is what economic historians work to explain to the present world of policymakers, entrepreneurs, academics, and students every day.&#x20;

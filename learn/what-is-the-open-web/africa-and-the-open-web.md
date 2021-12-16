@@ -1,5 +1,5 @@
 ---
-description: A Brief Overview.
+description: A brief overview.
 ---
 
 # Africa and the Open Web

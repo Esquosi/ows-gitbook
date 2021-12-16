@@ -1,3 +1,7 @@
+---
+description: A brief overview.
+---
+
 # Climate Change and the Open Web
 
 Blockchain is an incredibly innovative technology that is increasingly revolutionising many aspects of life. In the past years, new applications of blockchain technology have been created to fight climate change and foster sustainable development. Already in early 2017, the then Associate Program Office the United Framework Convention of Climate Change (UNCCC), Alexandre Gellert defined blockchain technology as:

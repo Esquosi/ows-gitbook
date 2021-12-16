@@ -1,5 +1,5 @@
 ---
-description: A Brief Discussion.
+description: A brief overview.
 ---
 
 # The Future of Finance and the Open Web

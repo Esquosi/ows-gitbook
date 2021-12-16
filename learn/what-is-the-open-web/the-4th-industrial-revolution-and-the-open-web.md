@@ -1,5 +1,5 @@
 ---
-description: A Short Introduction.
+description: A brief overview.
 ---
 
 # The 4th Industrial Revolution and the Open Web

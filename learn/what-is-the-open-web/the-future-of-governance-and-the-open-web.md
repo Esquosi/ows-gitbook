@@ -1,5 +1,5 @@
 ---
-description: A Brief Overview.
+description: A brief overview.
 ---
 
 # The Future of Governance and the Open Web
