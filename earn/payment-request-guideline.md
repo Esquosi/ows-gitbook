@@ -113,14 +113,12 @@ During the **review period** there is no action for you to take.&#x20;
 At the end of the **review period** (on the 30th or 31st), a document with all the approved proposals will be posted on Discord with converted rates ($USD > $NEAR). Once you find your approved proposal in the document with the final reward converted to NEAR, you may create a proposal on our new [**Open Web Sandbox AstroDAO.** ](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)****
 
 {% hint style="danger" %}
-Starting from November, every project and guild on NEAR using SputnikDAO will be switching to the <mark style="color:red;">**NEW**</mark> **AstroDAO** (the new official NEAR DAO platform). OWS will also be switching to AstroDAO so make sure you follow the NEW steps correctly.&#x20;
+Starting from November, every project and guild on NEAR using SputnikDAO will be switching to the <mark style="color:red;">**NEW**</mark> **AstroDAO** (the new official NEAR DAO platform). OWS will also be switching to AstroDAO so make sure you follow the NEW steps correctly. 6
 {% endhint %}
 
-###
+### 6. Create Proposal on OWS DAO
 
-### Step 6
-
-* <mark style="color:orange;">**Create an on-chain proposal**</mark>** ** on our NEW **** [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)**.**
+<mark style="color:orange;">**Create an on-chain proposal**</mark>** ** on our NEW **** [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)**.**
 
 ![](<../.gitbook/assets/Screenshot 2021-11-15 at 10.12.09.png>)
 

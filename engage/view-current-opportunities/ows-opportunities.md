@@ -6,8 +6,8 @@ description: Full list of Rolling Opportunities and Rewards for December 2021
 
 Below is a list of the rolling rewards for the Sandbox for the month of December. For detailed instructions on how to post proposals and how to claim rewards please see this section:
 
-{% content-ref url="../payment-request-guideline.md" %}
-[payment-request-guideline.md](../payment-request-guideline.md)
+{% content-ref url="../../earn/payment-request-guideline.md" %}
+[payment-request-guideline.md](../../earn/payment-request-guideline.md)
 {% endcontent-ref %}
 
 #### Notes:

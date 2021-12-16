@@ -9,8 +9,11 @@
 * [View Current Opportunities](engage/view-current-opportunities/README.md)
   * [🌟 OWS Opportunities](engage/view-current-opportunities/ows-opportunities.md)
   * [📐 Quality Control Guidelines](engage/view-current-opportunities/quality-control-guidelines.md)
-* [Payment Request Guideline](engage/payment-request-guideline.md)
-* [Payment Form](engage/payment-form.md)
+
+## 💎 Earn
+
+* [Payment Request Guideline](earn/payment-request-guideline.md)
+* [Payment Form](earn/payment-form.md)
 
 ## 🌐 Learn
 
