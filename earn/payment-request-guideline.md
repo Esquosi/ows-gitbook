@@ -41,7 +41,7 @@ Forum post period: 20th - 25th of each month only.&#x20;
 #### Title Template (Use this for your post title):
 
 ```
-Sandbox [Relevant month] Reward Claim of [Your discord handle]
+Sandbox [Relevant month] Reward Claim of [Your discord handle] [Your NEAR Wallet] 
 ```
 
 {% hint style="warning" %}
