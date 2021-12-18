@@ -13,8 +13,8 @@ If you want to view the list of Project Opportunities, visit the [**Projects Das
 
 Instead, if you want to view the list of our monthly OWS opportunities, jump to this part:
 
-{% content-ref url="ows-opportunities.md" %}
-[ows-opportunities.md](ows-opportunities.md)
+{% content-ref url="ows-opportunities/" %}
+[ows-opportunities](ows-opportunities/)
 {% endcontent-ref %}
 
 If you want to undertake some of the tasks offered in the OWS Opportunities page, make sure you keep our frequently-updated Quality Control Guidelines into consideration while working:&#x20;

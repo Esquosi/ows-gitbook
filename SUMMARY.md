@@ -7,7 +7,8 @@
 * [Join OWS as a Community](engage/join-ows-as-a-community.md)
 * [Join OWS as a Contributor](engage/join-ows-as-a-contributor.md)
 * [View Current Opportunities](engage/view-current-opportunities/README.md)
-  * [🌟 OWS Opportunities](engage/view-current-opportunities/ows-opportunities.md)
+  * [🌟 OWS Opportunities](engage/view-current-opportunities/ows-opportunities/README.md)
+    * [🌐 Indian - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/indian-ows-opportunities.md)
   * [📐 Quality Control Guidelines](engage/view-current-opportunities/quality-control-guidelines.md)
 
 ## 💎 Earn
