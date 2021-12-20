@@ -16,6 +16,10 @@ Please find translated versions of this document here:&#x20;
 [indian-ows-opportunities.md](indian-ows-opportunities.md)
 {% endcontent-ref %}
 
+{% content-ref url="vietnamese-ows-opportunities.md" %}
+[vietnamese-ows-opportunities.md](vietnamese-ows-opportunities.md)
+{% endcontent-ref %}
+
 #### Notes:
 
 * For the tasks included in the list below there is a monthly limit of 300 USD reward per contributor per month.
