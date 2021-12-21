@@ -20,6 +20,10 @@ Please find translated versions of this document here:&#x20;
 [vietnamese-ows-opportunities.md](vietnamese-ows-opportunities.md)
 {% endcontent-ref %}
 
+{% content-ref url="spanish-ows-opportunities.md" %}
+[spanish-ows-opportunities.md](spanish-ows-opportunities.md)
+{% endcontent-ref %}
+
 #### Notes:
 
 * For the tasks included in the list below there is a monthly limit of 300 USD reward per contributor per month.

@@ -10,6 +10,7 @@
   * [🌟 OWS Opportunities](engage/view-current-opportunities/ows-opportunities/README.md)
     * [🇮🇳 Indian - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/indian-ows-opportunities.md)
     * [🇻🇳 Vietnamese - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/vietnamese-ows-opportunities.md)
+    * [🇪🇸 Spanish - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/spanish-ows-opportunities.md)
   * [📐 Quality Control Guidelines](engage/view-current-opportunities/quality-control-guidelines.md)
 
 ## 💎 Earn
