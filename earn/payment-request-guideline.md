@@ -97,7 +97,6 @@ DM **one** of our Discord moderators (**before the 25th of each month**) the hyp
 * @esquosi
 * @vrdoingthings
 * @nastique
-* @p0k
 * @Monish016
 * @William X
 * @FritzWagner
