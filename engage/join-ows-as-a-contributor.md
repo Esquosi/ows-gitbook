@@ -11,7 +11,7 @@ description: >-
 `Steps to become an OWS contributor >`
 
 * [ ] Fill out our [**Contributor Form**](https://airtable.com/shr4is9xLFYTgjUmX)
-* [ ] Start getting to know other community members on our [**Discord**](https://discord.com/invite/457bWnJqkQ), ask questions and join the conversation.
+* [ ] Start getting to know other community members on our [**Discord**](https://discord.gg/U4PAG4NCna), ask questions and join the conversation.
 * [ ] Watch our [**'How to OWS' AMA**](https://www.youtube.com/watch?v=hmhsfKaqcmw\&t=2937s).
 * [ ] Virtually attend our Weekly AMAs.
 
