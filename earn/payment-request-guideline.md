@@ -28,7 +28,7 @@ Create an account on **** [**NEAR governance forum**](https://gov.near.org) ****
 
 
 
-### 4. Payment request period
+### 3. Payment request period
 
 <mark style="color:orange;">**Create a post**</mark> on the [**OWS NEAR Forum page**](https://gov.near.org/c/open-web-sandbox/59) **** claiming your monthly activity and rewards.&#x20;
 
@@ -88,7 +88,7 @@ That is all you need to include in the post! Click **+Create Topic** to finalise
 
 
 
-### 5. Contact a Sandbox Moderator
+### 4. Contact a Sandbox Moderator
 
 DM **one** of our Discord moderators (**before the 25th of each month**) the hyperlink to your forum post to let us know you have posted on our forum.
 
@@ -115,7 +115,7 @@ At the end of the **review period** (on the 30th or 31st), a document with all t
 Starting from November, every project and guild on NEAR using SputnikDAO will be switching to the <mark style="color:red;">**NEW**</mark> **AstroDAO** (the new official NEAR DAO platform). OWS will also be switching to AstroDAO so make sure you follow the NEW steps correctly. 6
 {% endhint %}
 
-### 6. Create Proposal on OWS DAO
+### 5. Create Proposal on OWS DAO
 
 <mark style="color:orange;">**Create an on-chain proposal**</mark>** ** on our NEW **** [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near)**.**
 
