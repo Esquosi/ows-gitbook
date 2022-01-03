@@ -2,7 +2,7 @@
 description: 'December 2021 ke Rolling Opportunities aur puraskar ke poori soochi:'
 ---
 
-# 🌐 Indian - OWS Opportunities
+# 🇮🇳 Indian - OWS Opportunities
 
 Neeche December maheene (sandbox) ke liye rolling rewards ki soochi di gayi hai. Prastav kaise post karen aur puraskaron ka daava kaise karen, is par vistrt nirdeshon ke lie krpaya yah anubhag dekhen:
 
