@@ -21,6 +21,8 @@
 
 ## 🌐 Learn
 
+* [OWS Tutorials](learn/ows-tutorials/README.md)
+  * [Pitch Starter Kit](learn/ows-tutorials/pitch-starter-kit.md)
 * [What is OWS?](learn/what-is-ows/README.md)
   * [Discord](learn/what-is-ows/discord.md)
 * [What is the Open Web?](learn/what-is-the-open-web/README.md)
@@ -45,5 +47,4 @@
   * [📶 DeFi](learn/what-can-blockchains-do/defi.md)
   * [👾 NFTs](learn/what-can-blockchains-do/nfts.md)
   * [🛡 DAOs](learn/what-can-blockchains-do/daos.md)
-* [Pitch Starter Kit](learn/pitch-starter-kit.md)
 * [External Resources](learn/external-resources.md)
