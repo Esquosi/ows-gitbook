@@ -14,4 +14,4 @@ Once you have found your Discord handle, please go on the [**Open Web Sandbox As
 
 ## Payment Form
 
-{% embed url="https://airtable.com/shrYQgj4KOqKCvJM6/tbluhfFFjIXRQgGnd" %}
+{% embed url="https://airtable.com/shrYQgj4KOqKCvJM6" %}
