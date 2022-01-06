@@ -14,4 +14,14 @@ Once you have found your Discord handle, please go on the [**Open Web Sandbox As
 
 ## Payment Form
 
-{% embed url="https://airtable.com/shrYQgj4KOqKCvJM6" %}
+Final payment form for December. Take the `Total NEAR Amount` for the on-chain [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near/proposals) proposal.&#x20;
+
+{% embed url="https://airtable.com/shr39gTEvPrcfKPIq" %}
+
+### NEAR price (December):&#x20;
+
+Five day average of NEAR price using the Anchored VWAP on Trading View, NEAR/USD pair.&#x20;
+
+`$15.8`
+
+![Trading View - Anchored VWAP](<../.gitbook/assets/Screenshot 2022-01-06 at 21.44.24.png>)
