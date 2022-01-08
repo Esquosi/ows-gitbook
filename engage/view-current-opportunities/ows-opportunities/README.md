@@ -4,7 +4,7 @@ description: Full list of Rolling Opportunities and Rewards for January 2022
 
 # 🌟 OWS Opportunities
 
-Below is a list of the rolling rewards for the Sandbox for the month of December. For detailed instructions on how to post proposals and how to claim rewards please see this section:
+Below is a list of the rolling rewards for the Sandbox for the month of January. For detailed instructions on how to post proposals and how to claim rewards please see this section:
 
 {% content-ref url="../../../earn/payment-request-guideline.md" %}
 [payment-request-guideline.md](../../../earn/payment-request-guideline.md)

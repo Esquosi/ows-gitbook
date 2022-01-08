@@ -4,7 +4,7 @@ description: Lista completa de oportunidades y recompensas de enero
 
 # 🇪🇸 Spanish - OWS Opportunities
 
-A continuación van a encontrar una lista de las recompensas que el Sandbox ofrece este Diciembre. Para instrucciones detalladas en como postear sus propuestas y como solicitar sus recompensas porfavor revisen esta sección:
+A continuación van a encontrar una lista de las recompensas que el Sandbox ofrece este Enero. Para instrucciones detalladas en como postear sus propuestas y como solicitar sus recompensas porfavor revisen esta sección:
 
 {% content-ref url="../../../earn/payment-request-guideline.md" %}
 [payment-request-guideline.md](../../../earn/payment-request-guideline.md)
