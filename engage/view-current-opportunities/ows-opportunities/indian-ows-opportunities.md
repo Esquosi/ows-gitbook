@@ -1,5 +1,5 @@
 ---
-description: 'December 2021 ke Rolling Opportunities aur puraskar ke poori soochi:'
+description: 'January 2022 ke Rolling Opportunities aur puraskar ke poori soochi:'
 ---
 
 # 🇮🇳 Indian - OWS Opportunities

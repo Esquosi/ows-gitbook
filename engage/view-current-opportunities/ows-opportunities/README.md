@@ -1,5 +1,5 @@
 ---
-description: Full list of Rolling Opportunities and Rewards for December 2021
+description: Full list of Rolling Opportunities and Rewards for January 2022
 ---
 
 # 🌟 OWS Opportunities

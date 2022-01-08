@@ -1,5 +1,5 @@
 ---
-description: Lista completa de oportunidades y recompensas de diciembre
+description: Lista completa de oportunidades y recompensas de enero
 ---
 
 # 🇪🇸 Spanish - OWS Opportunities
