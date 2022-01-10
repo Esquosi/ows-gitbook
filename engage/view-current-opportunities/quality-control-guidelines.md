@@ -17,9 +17,10 @@ These guidelines are of mandatory character, i.e. the OWS moderators reserve the
 | DO'S                                                                                                                          | DONT'S                                                                                                                     |   |
 | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | - |
 | Create a minimalist visual design (or visual story) to help the audience interpret complicated information in a simple manner | Overloading your infographic: presented data must remain visually clear. Huge chunks of text in small font must be avoided | D |
-| Create a unique aesthetic that is consistent and recognisable                                                                 | Abuse of design templates or using stock program templates                                                                 |   |
-| Check your data and avoid speculative or wrong information                                                                    | Pasting text+logos over a background/image is NOT an infographic.                                                          |   |
 | <p>Make sure your infographics are meaningful to the community and cover recent and ‘hot’ topics</p><p></p>                   | Long sentences and improper grammar                                                                                        |   |
+| Check your data and avoid speculative or wrong information                                                                    | Pasting text+logos over a background/image is NOT an infographic                                                           |   |
+| Create a unique aesthetic that is consistent and recognisable                                                                 | Abuse of design templates or using stock program templates                                                                 |   |
+| Attention to composition, balance and colour tones                                                                            | Serif fonts and too many font colours: less can be more when done carefully                                                |   |
 
 ### Simple-Designs
 
@@ -28,7 +29,8 @@ These guidelines are of mandatory character, i.e. the OWS moderators reserve the
 | Use reliable sources from the crypto space, hyperlink where possible                            | Overloading your simple-design: presented data must remain visually clear. Huge chunks of text in small font must be avoided |   |
 | Create a unique aesthetic that is consistent and recognisable                                   | Abuse of design templates or using stock program templates                                                                   |   |
 | Check your data and avoid speculative or wrong information                                      | Long sentences and improper grammar                                                                                          |   |
-| Make sure your simple-designs are meaningful to the community and cover recent and ‘hot’ topics |                                                                                                                              |   |
+| Make sure your simple-designs are meaningful to the community and cover recent and ‘hot’ topics | Serif fonts and too many font colours: less can be more when done carefully                                                  |   |
+| Attention to composition, balance and colour tones                                              |                                                                                                                              |   |
 
 
 
