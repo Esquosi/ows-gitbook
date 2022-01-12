@@ -14,17 +14,29 @@ While traditional finance has largely ignored the cryptocurrency revolution, tal
 
 In crypto, decentralized finance took center stage in 2020, with the unprecedented growth of protocols like Compound and Aave, as well as decentralized exchanges like Uniswap and Sushiswap. In parallel, Wall Street has become willing to tolerate Bitcoin and other cryptocurrencies, with major companies converting cash reserves into Bitcoin, and major investment players slowly opening up positions in the space. Stable Coins, referenced as perhaps the ‘killer app’ of crypto to date, have silently revolutionized the transfer of assets into and out of crypto, and also across borders. Finally, Non-Fungible Tokens, as a completely new asset class hold the promise of providing completely new ways of tokenizing and financializing value - well beyond the realm of finance.&#x20;
 
-Compound: “Compound Finance lets you lend and borrow crypto assets without any middlemen. Both lenders and borrowers get even more value from their crypto. Lenders earn interest, while borrowers deposit crypto to gain access to credit without the banking headaches.” (Rewrite this yourself)
+#### Compound:&#x20;
 
-Aave: Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Aave currently has over $3.4 billion US dollars in assets locked in its protocol. (Source)
+“Compound Finance lets you lend and borrow crypto assets without any middlemen. Both lenders and borrowers get even more value from their crypto. Lenders earn interest, while borrowers deposit crypto to gain access to credit without the banking headaches.” ([Exodus](https://www.exodus.com/blog/compound-finance-review/%23:\~:text=system%20upside%20down.-,What%20is%20Compound%20Finance%3F,credit%20without%20the%20banking%20headaches.))
 
-Uniswap: “Uniswap is a set of computer programs that run on the Ethereum blockchain and allow for decentralized token swaps. It works with the help of unicorns (as illustrated by their logo). Traders can exchange Ethereum tokens on Uniswap without having to trust anyone with their funds. Meanwhile, anyone can lend their crypto to special reserves called liquidity pools. In exchange for providing money to these pools, they earn fees.” (Source)
+#### Aave:&#x20;
 
-Enzyme: Enzyme is an Ethereum-based protocol for decentralized on-chain asset management. It is a protocol for people or entities to manage their wealth & the wealth of others within a customizable and safe environment. Enzyme empowers anyone to set up, manage and invest in customized on-chain investment vehicles.” (Source)
+[Aave](https://aave.com) is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Aave currently has over $3.4 billion US dollars in assets locked in its protocol.&#x20;
 
-Non-Fungible Tokens: Non-fungible tokens (NFTs) are unique, digital items with blockchain-managed ownership. With NFT’s, you have the opportunity to establish unique digital ownership over a specific asset, in which you alone possess that asset, and the details (or metadata) pertaining to that asset are built into the smart contract beneath it. That means that the asset can be divided and sold, value can be pushed into the asset from another contract, and changes in ownership over time are recorded in its digital mechanics. (Source)
+#### Uniswap:&#x20;
 
-Stable Coins: “A stablecoin is a new class of cryptocurrencies that attempts to offer price stability and are backed by a reserve asset. Stablecoins have gained traction as they attempt to offer the best of both worlds—the instant processing and security or privacy of payments of cryptocurrencies, and the volatility-free stable valuations of fiat currencies.” (Investopedia)
+“Uniswap is a set of computer programs that run on the Ethereum blockchain and allow for decentralized token swaps. It works with the help of unicorns (as illustrated by their logo). Traders can exchange Ethereum tokens on Uniswap without having to trust anyone with their funds. Meanwhile, anyone can lend their crypto to special reserves called liquidity pools. In exchange for providing money to these pools, they earn fees” ([Binance Academy](https://academy.binance.com/en/articles/what-is-uniswap-and-how-does-it-work)).
+
+#### Enzyme:&#x20;
+
+[Enzyme](https://enzyme.finance) is an Ethereum-based protocol for decentralized on-chain asset management. It is a protocol for people or entities to manage their wealth & the wealth of others within a customizable and safe environment. Enzyme empowers anyone to set up, manage and invest in customized on-chain investment vehicles.
+
+#### Non-Fungible Tokens:&#x20;
+
+[Non-fungible tokens](https://nearguilds.com/2020/12/10/a-home-for-nfts-is-building-on-near-here-is-why-that-matters/) (NFTs) are unique, digital items with blockchain-managed ownership. With NFT’s, you have the opportunity to establish unique digital ownership over a specific asset, in which you alone possess that asset, and the details (or metadata) pertaining to that asset are built into the smart contract beneath it. That means that the asset can be divided and sold, value can be pushed into the asset from another contract, and changes in ownership over time are recorded in its digital mechanics.&#x20;
+
+#### Stable Coins:&#x20;
+
+“A stablecoin is a new class of cryptocurrencies that attempts to offer price stability and are backed by a reserve asset. Stablecoins have gained traction as they attempt to offer the best of both worlds—the instant processing and security or privacy of payments of cryptocurrencies, and the volatility-free stable valuations of fiat currencies.” ([Investopedia](https://www.investopedia.com/terms/s/stablecoin.asp))
 
 What these trends indicate is that in line with the development of Fintech and Neo- Banks, Finance is also undergoing a revolution powered by blockchain and open- source decentralized protocols. Are financial professionals familiar with this world? Will regional imbalances in adoption alter the future of finance around the world? How will the development of cryptocurrencies be affected by regulation and central bank digital currencies?&#x20;
 
