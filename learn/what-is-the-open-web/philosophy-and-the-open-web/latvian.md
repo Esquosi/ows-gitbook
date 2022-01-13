@@ -4,6 +4,8 @@ description: OpenWeb un filozofija
 
 # 🇱🇻 Latvian
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Translated by [Zhunda](https://gov.near.org/u/Zhunda).&#x20;
 
 Blokķēde nepārtraukti pieaug, lai kļūtu par 21. gadsimta visnovatoriskāko un revolucionārāko tehnoloģiju. Tās spēja nodot vērtību tīklos tādā veidā, kas novērš vajadzību pēc tradicionālajiem starpniekiem, ļauj attīstīt dažādus cilvēku mijiedarbības modeļus, kam ir plaša ietekme uz dažādām mūsu dzīves jomām. Piemēram, blokķēde varētu kļūt par izsekošanas reģistru lielai daļai pasaules darbību; būtībā visa sabiedrības atmiņa, instruments cilvēku modeļu dziļākai automatizēšanai un cilvēka un tehnoloģiskās darbības integrēšanai (Melanie Swan, 2015).

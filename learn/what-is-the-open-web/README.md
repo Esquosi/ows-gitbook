@@ -1,5 +1,7 @@
 # What is the Open Web?
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Technology is a fundamental economic and cultural force that has permeated all aspects of human existence. It has changed the way we work, the way we communicate with one another, how we learn, and has generally allowed us to increase our living standards to an incredible degree. It provides endless possibilities for human development and is indeed the key to tackling many financial, social, and environmental challenges.&#x20;
 
 However, what is becoming evident is that technology is not only a tool to improve life, but also a tool to control it. And while the economic benefits of technological development have mostly benefited a few, its burdens are shared by the masses. Although nobody nowadays can do away with technology, we have very little influence over technological developments. Technology has been the domain of computer programmers and experts - alone - and that has reduced its users to become passive consumers of technology, unaware and unable to critically assess its influences. As a result, average people have suffered from a loss of agency while also becoming more vulnerable to exploitation and manipulation from technology providers.&#x20;

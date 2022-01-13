@@ -4,6 +4,10 @@ description: OpenWeb un cīņa pret klimata pārmaiņām
 
 # 🇱🇻 Latvian
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
+Translated by [Zhunda](https://gov.near.org/u/Zhunda).&#x20;
+
 Blokķēde ir neticami novatoriska tehnoloģija, kas arvien vairāk pārveido daudzus dzīves aspektus. Pēdējos gados ir radīti jauni blokķēdes tehnoloģiju pielietojumi, lai cīnītos pret klimata pārmaiņām un veicinātu ilgtspējīgu attīstību. Jau 2017. gada sākumā Apvienoto klimata pārmaiņu pamatkonvencijas (UNCCC) asociētais programmu biroja vadītājs Aleksandrs Gellerts definēja blokķēdes tehnoloģiju kā:
 
 > “Nenovērtējams rīks, lai veicinātu lielāku ieinteresēto personu līdzdalību, pārredzamību un iesaistīšanos, kā arī palīdzētu radīt uzticību un jaunus novatoriskus risinājumus cīņā pret klimata pārmaiņas, kā rezultātā uzlabojas klimata darbības. ”

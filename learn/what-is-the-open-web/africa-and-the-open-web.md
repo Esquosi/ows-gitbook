@@ -4,6 +4,8 @@ description: A brief overview.
 
 # Africa and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Regional studies, as a discipline, analyze the importance and opportunities of a certain area of the world in the context of its history, cultures, and identity. Africa as a continent, is quickly advancing as one of the most interesting and sought after regions of the world to study and learn about - especially when looking towards the future.&#x20;
 
 The Open Web as a concept, is a paradigm shift in the history of the internet and computing. It provides ample opportunities for companies, governments, entrepreneurs, and individuals to create more efficient, profitable, and inclusive digital systems across industries and use-cases. Generally speaking, the Open Web is characterized in vast contrast to our current digital infrastructure: It puts transparency first, embeds trust in code, and provides an environment for anyone and everyone to participate in.

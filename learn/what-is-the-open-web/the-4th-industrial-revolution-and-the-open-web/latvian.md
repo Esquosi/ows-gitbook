@@ -4,6 +4,8 @@ description: OpenWeb un 4. industriālā revolūcija
 
 # 🇱🇻 Latvian
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Translated by [Zhunda](https://gov.near.org/u/Zhunda).&#x20;
 
 Ceturto industriālo revolūciju Pasaules ekonomikas foruma priekšsēdētājs Klauss Švabs ir raksturojis kā lielāko no visām līdz šim notikušajām rūpniecības revolūcijām, kas notiek digitālo, materiālu un bioloģisko jomu krustojumā. Tajā, kas cilvēkus ievadīs jaunā laikmetā, ceturtā rūpnieciskā revolūcija tikai sākas.

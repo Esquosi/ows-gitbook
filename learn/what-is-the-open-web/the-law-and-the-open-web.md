@@ -4,6 +4,8 @@ description: A brief overview.
 
 # The Law and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 The development of blockchain technology is undoubtedly one of the most important conceptual and systemic revolutions in recent memory. Distributed ledger technology has undermined the logic of centralising governance and introduced a new concept of trust. This is why it collides with current laws which are designed for a socio-economic paradigm in which there is always a managing entity to whom responsibility for actions is attributed. For blockchain technology to be developed to its full potential, it must therefore find a place within a suitably structured, relevant and versatile regulatory framework, capable of developing pari passu with current technological advancements.
 
 ### Blockchain and Law: Where to Start?

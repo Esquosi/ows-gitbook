@@ -4,6 +4,8 @@ description: A brief overview.
 
 # The Future of Finance and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Financial markets have risen in complexity and popularity over the past two decades. Since the 2008 financial crisis, new questions about monetary policy, regulation, and accountability have changed the financial landscape across continents. Today, discussions about negative interest rates, stock market bubbles, cryptocurrencies and Central Bank Digital Currencies (CBDC’s) have jump started further discussion about the future of financial markets.
 
 Blockchain, originally developed under the guise of Bitcoin, has been demonstrated to be applicable beyond money (peer-to-peer network of exchange), to the larger world of open finance: decentralized lending, non-custodial crowdfunding, smart contract based asset management, and much more.

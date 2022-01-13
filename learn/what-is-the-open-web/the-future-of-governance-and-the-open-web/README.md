@@ -4,6 +4,8 @@ description: A brief overview.
 
 # The Future of Governance and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Blockchain technology has recently emerged as a critical 21st century general-purpose- technology with countless applications in the fields of finance, business, and politics. Because blockchain allows individuals to engage with institutions in very different ways, the need to re-think our relationship with institutions and the State becomes an important point of discussion. This includes not only the role of the State at a time of technical innovation and geopolitical fragmentation, but also a focus on how blockchain as a technology can improve the way we engage in politics, and help us build a better society.&#x20;
 
 Two contrasting views on the role of blockchain have already emerged:&#x20;

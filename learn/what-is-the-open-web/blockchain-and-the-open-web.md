@@ -4,6 +4,8 @@ description: A brief overview.
 
 # Blockchain and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 The blockchain is a technology - or rather, a computer architecture paradigm - with enormous development potential. Initially known to the public for being the digital technology underlying the Bitcoin Network, the blockchain has since been identified as the general purpose technology destined to revolutionize the management of online transactions, and more generally, as a suitable protocol for transmitting and recording data or information in a secure, traceable and immutable manner without the mediation of third parties or intermediaries. The blockchain can thus be considered a “trustless” technology because it disintermediates the relationship between parties (who interact with one another in a peer-to-peer manner), decentralizes control of the network, and protects its user’s through cryptography.
 
 The blockchain is based on four fundamental principles:

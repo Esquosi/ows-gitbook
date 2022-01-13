@@ -4,6 +4,8 @@ description: How Does Blockchain Technology Democratize Entrepreneurship?
 
 # A New Entrepreneurial Landscape
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Millions of new ideas and ways to commercialize them grow exponentially every day. So, perhaps, the right moment has arrived to reconsider what we know about entrepreneurship. In this short introduction we will touch upon 3 major challenges traditional start-ups face today and preview the potential blockchain solutions.
 
 #### High Costs in Start-up Financing: Information Asymmetry and Environmental Uncertainty

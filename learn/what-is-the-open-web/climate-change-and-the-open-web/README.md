@@ -4,6 +4,8 @@ description: A brief overview.
 
 # Climate Change and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Blockchain is an incredibly innovative technology that is increasingly revolutionising many aspects of life. In the past years, new applications of blockchain technology have been created to fight climate change and foster sustainable development. Already in early 2017, the then Associate Program Office the United Framework Convention of Climate Change (UNCCC), Alexandre Gellert defined blockchain technology as:
 
 > “An invaluable tool to foster greater stakeholder participation, transparency and engagement and help bring trust and new innovative solutions in the fight against climate change, leading to improved climate actions.”&#x20;

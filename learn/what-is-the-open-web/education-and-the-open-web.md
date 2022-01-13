@@ -4,6 +4,8 @@ description: A brief overview.
 
 # Education and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Blockchain has steadily grown to become one of the most innovative and revolutionary technologies of the 21st century; capturing the interest of entrepreneurs, venture capital firms, financial institutions and other corporations. Blockhain’s scope, however, goes well beyond the financial and business world. It has a tremendous range of use cases in every industry, education included. There are two major discussions of the field of education and blockchain technology: one is focused on applying blockchain in the educational field, and another aims at fostering education on blockchain technology. Concretely, the first field looks at how the blockchain can be used to document, verify and share data on learning, knowledge, skills, and abilities, as well as the academic awards that represent them, in a more private and efficient way. The second looks at how to make blockchain adoption easier by filling the knowledge gap that prevents individuals and companies from benefiting from blockchain.
 
 ### Blockchain in Education: Ongoing Projects

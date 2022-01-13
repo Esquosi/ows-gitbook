@@ -6,6 +6,10 @@ description: >-
 
 # 🇱🇻 Latvian
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
+Translated by [Zhunda](https://gov.near.org/u/Zhunda).&#x20;
+
 Miljoniem jaunu ideju un veidu, kā tās komercializēt, katru dienu pieaug eksponenciāli. Tāpēc, iespējams, ir pienācis īstais brīdis, lai pārskatītu to, ko mēs zinām par uzņēmējdarbību. Šajā īsajā ievadā mēs skarsim 3 galvenās problēmas, ar kurām tradicionālie jaunuzņēmumi šodien saskaras, un priekšskatīsim potenciālos blokķēdes risinājumus.
 
 #### Augstas izmaksas startapu finansēšanā: informācijas asimetrija un vides nenoteiktība

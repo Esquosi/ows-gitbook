@@ -4,6 +4,10 @@ description: Pārvaldības nākotne un OpenWeb
 
 # 🇱🇻 Latvian
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
+Translated by [Zhunda](https://gov.near.org/u/Zhunda).&#x20;
+
 Blokķēdes tehnoloģija nesen ir kļuvusi par kritisku 21. gadsimta vispārējas mērķa tehnoloģiju, ar neskaitāmiem pielietojumiem finanšu, biznesa un politikas jomās. Tā kā blokķēde ļauj indivīdiem ļoti dažādi iesaistīties institūcijās, nepieciešamība pārdomāt mūsu attiecības ar institūcijām un valsti kļūst par svarīgu diskusiju punktu. Tas ietver ne tikai valsts lomu tehnisko jauninājumu un ģeopolitiskās sadrumstalotības laikā, bet arī koncentrēšanos uz to, kā blokķēde kā tehnoloģija var uzlabot veidu, kā mēs iesaistāmies politikā, un palīdzēt mums veidot labāku sabiedrību.
 
 Jau ir parādījušies divi pretrunīgi viedokļi par blokķēdes lomu: Viens atbalsta pašreizējās valsts pārvaldes struktūras saglabāšanu, vienlaikus izmantojot blokķēdi, lai padarītu pilsoņus mazāk atkarīgus no institūcijām. Šis ceļš būtu koncentrēts uz viedo līgumu publisko izstrādi un ieviešanu, digitālajām īpašumtiesībām, DAO utt., bet pakļaujoties centrālajai iestādei.

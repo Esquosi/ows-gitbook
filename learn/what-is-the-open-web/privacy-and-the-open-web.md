@@ -4,6 +4,8 @@ description: A brief overview.
 
 # Privacy and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Numerous data breaches in recent years, such as the Cambridge Analytica scandal, have prompted questions regarding how companies and governments should handle the information entrusted to them by their users. This in turn, has also intensified research into the development of new technologies that are better able to preserve the privacy of companies and users.
 
 As a result, countries and legislators have rushed to establish new compliance requirements for user’s privacy and data collection - such as the General Data Protection Regulation in Europe and the Chinese’ Personal Information Protection Law. In parallel, a new trend of turning to new technologies such as blockchain to solve privacy issues has emerged. In this regard, contrary to the initial perception of many, blockchain technology could not only be GDPR-compatible, but help increase levels of data privacy and protection while also returning data ownership of that information to individuals. Therefore, blockchain technology can very much be used as a privacy tool.&#x20;

@@ -4,6 +4,8 @@ description: A brief overview.
 
 # The 4th Industrial Revolution and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 The 4th Industrial Revolution has been characterized by Klaus Schwab, Chairman of the World Economic Forum, as the largest of all industrial revolutions to date, taking place at the intersection of the digital, materials, and biological domains. In what will usher in a new era for humans, the fourth industrial revolution is only just beginning.
 
 > “There are three reasons why today’s transformations represent not merely a prolongation of the Third Industrial Revolution but rather the arrival of a Fourth and distinct one: velocity, scope, and systems impact. The speed of current breakthroughs has no historical precedent. When compared with previous industrial revolutions, the Fourth is evolving at an exponential rather than a linear pace. Moreover, it is disrupting almost every industry in every country.”&#x20;

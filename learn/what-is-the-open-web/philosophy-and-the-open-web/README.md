@@ -4,6 +4,8 @@ description: A brief overview.
 
 # Philosophy and the Open Web
 
+Written by [4NTS](https://nearguilds.com/documentation/).&#x20;
+
 Blockchain has steadily grown to become the most innovative and revolutionary technology of the 21st century. Its ability to transfer value across networks in ways that obviate the need for traditional intermediaries allows for the development of different patterns of interactions between humans, having broad implications for various areas of our lives. Blockchain, for instance, could become a tracking register for much of world activity; essentially the whole of a society’s memory, a tool for more profoundly automating human patterns, and integrating human and technological activity (Melanie Swan, 2015).&#x20;
 
 This has triggered interesting philosophical questions that are only starting to be addressed. What is blockchain technology, and how can that be categorised? What new things is blockchain technology helping us to know, and with what proof or truth standard? How is blockchain technology valorised and adopted, and what behavioural norms does that give rise to?
