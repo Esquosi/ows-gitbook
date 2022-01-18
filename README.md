@@ -34,8 +34,8 @@ If you want to join OWS and start engaging in the ecosystem, jump straight into 
 
 If you are already a contributor and just want to see the up-to-date list of project and OWS opportunities, jump straight to this section:
 
-{% content-ref url="engage/view-current-opportunities/" %}
-[view-current-opportunities](engage/view-current-opportunities/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Learn

@@ -19,7 +19,7 @@ description: >-
 
 If you have filled out our Contributor Form, then you are now part of the OWS contributor community, welcome!
 
-To start contributing and earning, have a look at the following section, which outlines a complete and up-to-date list of all current opportunities, both for tasks assigned by OWS and other communities part of the NEAR ecosystem.
+To start contributing and earning, have a look at our [**Project Dashboard**](https://www.openwebsandbox.org/projects-dashboard), which outlines a complete and up-to-date list of all current opportunities assigned by communities and projects part of the NEAR ecosystem.
 
 {% hint style="success" %}
 Now that you are an OWS contributor, also join our [**Twitter**](https://twitter.com/OpenWebSandbox) and [**Medium**](https://medium.com/open-web-sandbox-near) communities!

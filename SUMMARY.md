@@ -6,13 +6,6 @@
 
 * [Join OWS as a Community](engage/join-ows-as-a-community.md)
 * [Join OWS as a Contributor](engage/join-ows-as-a-contributor.md)
-* [View Current Opportunities](engage/view-current-opportunities/README.md)
-  * [🌟 OWS Opportunities](engage/view-current-opportunities/ows-opportunities/README.md)
-    * [🇮🇳 Indian - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/indian-ows-opportunities.md)
-    * [🇻🇳 Vietnamese - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/vietnamese-ows-opportunities.md)
-    * [🇪🇸 Spanish - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/spanish-ows-opportunities.md)
-    * [🇷🇺 Russian - OWS Opportunities](engage/view-current-opportunities/ows-opportunities/russian-ows-opportunities.md)
-  * [📐 Quality Control Guidelines](engage/view-current-opportunities/quality-control-guidelines.md)
 
 ## 💎 Earn
 
