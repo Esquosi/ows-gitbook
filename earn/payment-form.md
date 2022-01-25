@@ -14,11 +14,11 @@ Once you have found your Discord handle, please go on the [**Open Web Sandbox As
 
 ## Payment Form
 
-Final payment form for December. Take the `Total NEAR Amount` for the on-chain [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near/proposals) proposal.&#x20;
+Final payment form for January. Take the `Total NEAR Amount` for the on-chain [**Open Web Sandbox AstroDAO**](https://app.astrodao.com/dao/open-web-sandbox.sputnik-dao.near/proposals) proposal.&#x20;
 
 {% embed url="https://airtable.com/shrpHyvFm1x7rv28g/tblVnmRG98SmT5oP1" %}
 
-### NEAR price (December):&#x20;
+### NEAR price (January):&#x20;
 
 Five day average of NEAR price using the Anchored VWAP on Trading View, NEAR/USD pair.&#x20;
 
