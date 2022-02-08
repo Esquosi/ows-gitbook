@@ -49,13 +49,6 @@
 
 ## 🏛 Legal
 
-## 🏛 Legal
-
-* [OWS Risk Assessment](legal-1/ows-risk-assessment.md)
-* [Privacy Policy](legal-1/privacy-policy.md)
-* [AML Compliance & Due Diligence](legal-1/aml-compliance-and-due-diligence.md)
-* [AML/CFT Risk Assessment and Recommendations](legal-1/aml-cft-risk-assessment-and-recommendations.md)
-
-***
-
-* [Privacy Policy](privacy-policy.md)
+* [Privacy Policy](legal/privacy-policy.md)
+* [AML/CFT Risk Assessment and Recommendations](legal/aml-cft-risk-assessment-and-recommendations.md)
+* [AML Compliance & Due Diligence](legal/aml-compliance-and-due-diligence.md)
