@@ -50,3 +50,4 @@
 ## 🏛 Legal
 
 * [Privacy Policy](legal/privacy-policy.md)
+* [AML/CFT Risk Assessment and Recommendations](legal/aml-cft-risk-assessment-and-recommendations.md)
