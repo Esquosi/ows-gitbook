@@ -46,3 +46,7 @@
   * [👾 NFTs](learn/what-can-blockchains-do/nfts.md)
   * [🛡 DAOs](learn/what-can-blockchains-do/daos.md)
 * [External Resources](learn/external-resources.md)
+
+## 🏛 Legal
+
+* [Privacy Policy](legal/privacy-policy.md)
