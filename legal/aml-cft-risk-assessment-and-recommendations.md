@@ -49,6 +49,8 @@ The Open Web Sandbox (OWS) has been built to encourage participation and collabo
 
 Through the OWS rewards and opportunities program (for details see Annex II) users can engage with the rest of the community and explore opportunities made available by them or the OWS. As a registered contributor, at the end of the month, the member can claim rewards for each of the activities he/she worked on. This will be evaluated by the OWS Council and the contributor receives rewards in $NEAR.
 
+![](../.gitbook/assets/Open-Web-Sandbox-OWS-AMLCFT-Risk-Assessment-1.png)
+
 ### Full Document:
 
 {% embed url="https://nearlegal.com/storages/2022/01/OWS-AML-Risk-Assessment-and-Recommendations.pdf" %}

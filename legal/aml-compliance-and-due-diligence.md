@@ -46,6 +46,8 @@ Controls to be set will depend on the jurisdiction where your business is locate
 * Know Your Customer (KYC) on customers with different levels of controls depending on the risk; requirements here may vary from one jurisdiction to another. In some, it is only necessary to provide identity documents and selfies; in others, video identification is required, proof of address, and additional questions on the source of funds and purpose of the relationship.
 * Sanctions screening
 
+![](../.gitbook/assets/AML-Compliance-and-Due-Diligence.png)
+
 ### Full Document:
 
 {% embed url="https://nearlegal.com/storages/2022/01/AML-Compliance-and-Due-Diligence-Playbook.pdf" %}
