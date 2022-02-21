@@ -9,7 +9,6 @@
 
 ## 💎 Earn
 
-* [Payment Request Guideline](earn/payment-request-guideline.md)
 * [Payments list (Monthly)](earn/payments-list-monthly.md)
 
 ## 🌐 Learn

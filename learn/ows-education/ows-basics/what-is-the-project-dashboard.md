@@ -50,7 +50,7 @@ Once you have applied, similarly to a typical job application, someone from our 
 
 Once you have completed the project you let us know and we will instruct you on how to make a AstroDAO payment request for the next available payment period (end of each month).
 
-For more information on how to make an AstroDAO payment request, visit our [Payment Request Guideline](../../../earn/payment-request-guideline.md) page.&#x20;
+For more information on how to make an AstroDAO payment request, visit our [Payment Request Guideline](broken-reference) page.&#x20;
 
 ### Conclusion
 
