@@ -20,17 +20,13 @@ Below you will find the detailed instructions for each step.
 
 Fill in our [**Contributor Form**](https://airtable.com/shr4is9xLFYTgjUmX) **** (Only need to do this once)**.**
 
-****
-
 ### 2. NEAR Forum Account&#x20;
 
 Create an account on **** [**NEAR governance forum**](https://gov.near.org) **** (Only need to do this once).
 
-
-
 ### 3. Payment request period
 
-<mark style="color:orange;">**Create a post**</mark> on the [**OWS NEAR Forum page**](https://gov.near.org/c/open-web-sandbox/59) **** claiming your monthly activity and rewards.&#x20;
+<mark style="color:orange;">**Create a post**</mark> on the [**OWS NEAR Forum page**](https://gov.near.org/c/open-web-sandbox/59) **** claiming your monthly rewards.&#x20;
 
 ![Use this \[Title\] → “Sandbox \[Relevant month\] Reward Claim of \[Your discord handle\]”](<../.gitbook/assets/Forum screenshot.png>)
 
@@ -50,43 +46,26 @@ Please make sure you **copy and paste** this template with the appropriate month
 
 #### Post Main Body (Use this for the main body of the post):
 
-If you are claiming a reward from the list of **OWS Opportunities**, then <mark style="color:orange;">**copy and paste**</mark> this template for the main body of your forum post and replace the \[ ] with the correct content:
+If you are claiming a reward for a **Project Opportunity**, then <mark style="color:orange;">**copy and paste**</mark> this template for the main body of your forum post and replace the '\[...]' with the correct content:
 
 ```
-### Type of activity:
-[Insert Type of Activity]
+### Project Name:
+[Insert Name and Description of Project]
  
 ### Link to Result:
-[Insert hyperlink]
+[Insert hyperlink if applicable]
 
-[Repeat for all acts]
+[Repeat for all projects completed]
 
-### Estimated Final Reward: 
-[Calculate reward for all activities]
-```
-
-If you are claiming a reward from the list of **Project Opportunities**, then <mark style="color:orange;">**copy and paste**</mark> this template for the main body of your forum post and replace the \[ ] with the correct content:
-
-```
-### Project Task:
-[Insert specific project task] 
-
-### Link to Result:
-[Insert hyperlink]
-
-[Repeat for all acts, including OWS Opportunities if any]
-
-### Estimated Final Reward: 
-[Calculate reward for all activities]
+### Final Reward: 
+[As shown in project description]
 ```
 
 {% hint style="danger" %}
-If you are applying for both **OWS Opportunities** AND **Project Opportunities**, please describe every single act in one post and make sure ALL of the calculations are included in the Estimated Final Reward.&#x20;
+We no longer reward Rolling Opportunities
 {% endhint %}
 
 That is all you need to include in the post! Click **+Create Topic** to finalise the step - you have successfully submitted your post!
-
-
 
 ### 4. Contact a Sandbox Moderator
 
@@ -137,7 +116,9 @@ Starting from November, every project and guild on NEAR using SputnikDAO will be
 
 ![](<../.gitbook/assets/Screenshot 2021-11-15 at 10.17.48.png>)
 
+Click 'PROPOSE'.
+
 That is it!&#x20;
 
-Our team will take up to 3 days maximum to process your payment proposal on-chain.&#x20;
+Our team will take up to 3 days maximum to process your payment proposal on-chain. You will then receive the payment instantly.&#x20;
 

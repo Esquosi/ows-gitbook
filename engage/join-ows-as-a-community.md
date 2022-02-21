@@ -8,6 +8,8 @@ Within the NEAR ecosystem, we classify communities as either projects (DApps) bu
 
 If you already have a project or guild working in the NEAR ecosystem, have a look at this section to see how we can help. We will do what we can to achieve your goals.
 
+If you want to know more about what communities are, check out our OWS Education segment on ['What are OWS communities?'   ](../learn/ows-education/ows-basics/what-are-ows-communities.md)
+
 ### Get Support as a Community
 
 Get work done for your community/project by letting us find the right people for you tasks.&#x20;

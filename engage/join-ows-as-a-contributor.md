@@ -10,9 +10,9 @@ description: >-
 
 `Steps to become an OWS contributor >`
 
-* [ ] Fill out our [**Contributor Form**](https://airtable.com/shr4is9xLFYTgjUmX)
+* [ ] Watch our OWS Education segment on **** [**'What are OWS contributors?'**](../learn/ows-education/ows-basics/what-are-ows-contributors.md).
+* [ ] Fill out our [**Contributor Form**](https://airtable.com/shr4is9xLFYTgjUmX)**.**
 * [ ] Start getting to know other community members on our [**Discord**](https://discord.gg/U4PAG4NCna), ask questions and join the conversation.
-* [ ] Watch our [**'How to OWS' AMA**](https://www.youtube.com/watch?v=hmhsfKaqcmw\&t=2937s).
 * [ ] Virtually attend our Weekly AMAs.
 
 ### Engage in the NEAR ecosystem through OWS

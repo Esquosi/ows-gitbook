@@ -38,12 +38,12 @@ If you want to join OWS and start engaging in the ecosystem, jump straight into 
 
 If you want to learn more about OWS and the technology behind it, this is the section for you. For a quick introduction to OWS, see this:
 
-{% content-ref url="learn/what-is-ows/" %}
-[what-is-ows](learn/what-is-ows/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 If you want to learn more about blockchain fundamentals and what blockchains can do, see here:
 
-{% content-ref url="learn/what-can-blockchains-do/" %}
-[what-can-blockchains-do](learn/what-can-blockchains-do/)
+{% content-ref url="learn/ows-articles/what-can-blockchains-do/" %}
+[what-can-blockchains-do](learn/ows-articles/what-can-blockchains-do/)
 {% endcontent-ref %}

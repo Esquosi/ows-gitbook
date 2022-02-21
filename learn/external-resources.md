@@ -1,5 +1,5 @@
 ---
-description: Here is a short list of external resources related to blockchain and NEAR.
+description: A short list of educational external resources related to blockchain and NEAR.
 ---
 
 # External Resources
