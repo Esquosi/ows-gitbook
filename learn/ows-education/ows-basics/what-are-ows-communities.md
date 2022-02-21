@@ -1,5 +1,7 @@
 ---
 description: OWS Education / OWS Basics / What are OWS Communities?
+cover: ../../../.gitbook/assets/Announcement Banner (Twitter) (1).png
+coverY: 0
 ---
 
 # What are OWS Communities?

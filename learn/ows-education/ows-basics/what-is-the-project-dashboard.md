@@ -1,5 +1,7 @@
 ---
 description: OWS Education / OWS Basics / What is the Project Dashboard?
+cover: ../../../.gitbook/assets/Announcement Banner (Twitter) (1).png
+coverY: 0
 ---
 
 # What is the Project Dashboard?

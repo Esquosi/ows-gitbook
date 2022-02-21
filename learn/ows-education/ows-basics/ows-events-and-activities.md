@@ -1,5 +1,7 @@
 ---
 description: OWS Education / OWS Basics / OWS Events & Activities
+cover: ../../../.gitbook/assets/Announcement Banner (Twitter) (1).png
+coverY: 0
 ---
 
 # OWS Events & Activities
