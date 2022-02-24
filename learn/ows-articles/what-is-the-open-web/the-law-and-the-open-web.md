@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../.gitbook/assets/Screenshot 2022-02-24 at 15.11.09.png
+coverY: 0
 ---
 
 # The Law and the Open Web
@@ -10,7 +12,7 @@ The development of blockchain technology is undoubtedly one of the most importan
 
 ### Blockchain and Law: Where to Start?
 
-#### Smart Contracts
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.11.33.png>)
 
 Smart contracts are defined as “contractual type arrangements”, incorporation of contractual clauses, through computer language, into computer software or protocols. They have the characteristic of executing themselves automatically on the basis of certain conditions predetermined by the parties.
 
@@ -33,21 +35,7 @@ Cryptocurrencies can represent property, property rights, the provision of servi
 
 ### Different Legal Approaches
 
-#### Germany
-
-The most advanced European country for legislation in the European context. In January 2020, crypto-asset custody was integrated into the German Banking Act as a regulated financial service, granted upon application for a special licence with the German Federal Financial Supervisory Authority. As a result, many financial institutions are in the process of launching various digital asset offerings.
-
-#### Switzerland
-
-Established itself as a hub for cryptocurrencies and Fintech start-ups in the European continent. Its laws and regulations have been revised in order to take advantage of the opportunities provided by blockchain technology. Switzerland has implemented a taxation system for cryptocurrencies and worked out a regulation plan for businesses that prevent issues of money laundering.
-
-#### United States
-
-The US remains significantly behind in crypto regulation compared to Europe and Asia. This backwardness is already having a major impact on the adoption of digital assets by institutions. The uncertain framework does not help the overall development of the digital asset market, making the US one of the unfriendliest places for crypto.
-
-#### China
-
-In 2020 China passed a new law on the regulation of cryptography. The law aims at establishing a normative framework that institutes standards for cryptographic application to make it comply with the standard of the CCP. The adoption of blockchain technology is encouraged by the government and plans for the launch of a national cryptocurrency.
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.11.47.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.12.28.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.12.17.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.12.08.png>)
 
 ## Topics to Discuss
 

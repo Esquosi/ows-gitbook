@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.14.25.png
+coverY: 0
 ---
 
 # Philosophy and the Open Web
@@ -11,6 +13,8 @@ Blockchain has steadily grown to become the most innovative and revolutionary te
 This has triggered interesting philosophical questions that are only starting to be addressed. What is blockchain technology, and how can that be categorised? What new things is blockchain technology helping us to know, and with what proof or truth standard? How is blockchain technology valorised and adopted, and what behavioural norms does that give rise to?
 
 Blockchain technology can then be looked at philosophically from many perspectives: ontologically, epistemologically, ethically, and more. The ontological and epistemological perspectives are at the moment the most developed angles within the literature. Nevertheless, there is plenty of opportunity for further research as blockchain is only starting to gain a place in the philosophical domain.
+
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 14.53.11.png>)
 
 ### How Can Blockchain Be Approached By Philosophers?
 

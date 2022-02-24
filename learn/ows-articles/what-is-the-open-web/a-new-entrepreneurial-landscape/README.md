@@ -1,5 +1,7 @@
 ---
 description: How Does Blockchain Technology Democratize Entrepreneurship?
+cover: ../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.17.15.png
+coverY: 0
 ---
 
 # A New Entrepreneurial Landscape
@@ -24,6 +26,8 @@ Many software start-ups decide to sell their business to incumbents before fulfi
 
 Lacking expertise in all these non-coding domains, software engineers do not have much choice but to surrender. Although incumbents are mostly happy to move ahead with such projects, this frequently results in a compromised end-to-end product. Finding the right employees is one problem, but integrating them with the founding team in the way that it does not cause friction with the existing team is another.
 
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.17.39.png>)
+
 ### The Blockchain Solutions: Democratizing Innovation
 
 #### Reducing Costs: Creating a Better Trust Mechanism
@@ -47,6 +51,8 @@ When the founding team sells its technology before it can go to the market, the 
 The “Full-Stack” approach that is oriented towards building a “whole” product that allows start-ups to penetrate industries resisting software innovation. This is very relevant for technology start-up - having a brilliant technology not supported by a solid business model is a high-frequency mistake entrepreneurs commit. Regardless of how amazing your product is, if you only have a developers’ expertise on your bench, you will get killed. So what are the ways to pull off a full-stack venture?&#x20;
 
 Blockchain can help you facilitate your full-stack (logistics, supply chain management, design, sales, strategic partnerships, customer marketing...). Moreover, it is a more efficient way of managing accounting records, financial transactions, and improving information sharing.
+
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.17.50.png>)
 
 ### Topics to Discuss
 

@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../.gitbook/assets/Screenshot 2022-02-24 at 14.57.46.png
+coverY: 0
 ---
 
 # Education and the Open Web
@@ -12,13 +14,9 @@ Blockchain has steadily grown to become one of the most innovative and revolutio
 
 As a general purpose technology, integrating blockchain with an education system can change the way diplomas are verified, academic papers checked for plagiarism, and who is able to access what classes. Educational initiatives are only starting to experiment with these new ideas, with plenty of room for development into the future.
 
-#### Blockcerts
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.59.32.png>)
 
-Blockcerts is an open-standard platform used for creating, issuing and verifying certificates using blockchain technology. It was implemented thanks to the collaboration between Learning Machine and MIT Media Lab. Having all records of academic scores and honours on a blockchain facilitates more efficient hiring processes as the credibility of student’s documents can be easily checked. Academic records (grades, transcripts, and diplomas) are in fact stored on the Blockcerts blockchain so that there is an immutable record of past academic history. As a result, students’ academic records will be stored forever and future employers will be able to verify them immediately.
-
-#### Wolf University
-
-Woolf University is the collaboration of a team of Oxford academics to create the first blockchain university. Woolf University uses blockchain to provide a system of one-to-one education that is a cheaper alternative for students while also being more remunerative for teachers. By facilitating the storying and checking of information, it halves the costs of administrative procedures, which can then be used to provide cheaper services and increase salaries.
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.00.15.png>)
 
 ### Blockchain Education for Business Innovation
 
@@ -26,13 +24,7 @@ Education, specifically about blockchain, and generally about the open-web, is s
 
 Finally, there is the prospect of an innovation imbalance between certain regions of the world: Places where blockchain and the open-web are not taught across disciplines are at risk of falling behind - not in the next ten to fifteen years, but the next twenty to forty.
 
-#### Blockchain2Business
-
-Blockchain2Business is a training project that has been set up to train companies and entrepreneurs on the correct application of blockchain and how it can innovate in various industrial sectors. It is the result of the collaboration of two companies operating in the blockchain world: Swiss Crowd and AB Innovation Consulting. Their main idea is to build an academy for training on blockchain technologies to facilitate adoption and innovation of the business sector.
-
-#### The Blockchain Education Network
-
-The Blockchain Education Network is an international nonprofit organisation that is dedicated to forming a network of academics, researchers, and students from different fields to disseminate and foster education and research on the topic of blockchain. It is now the largest and longest running network of blockchain academics across the world, and it has born various startups that have already “seen the light” of blockchain.
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.01.44.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.01.52.png>)
 
 ### A Roadmap for Future Opportunity
 

@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../.gitbook/assets/Screenshot 2022-02-24 at 15.02.45.png
+coverY: 0
 ---
 
 # Economic History and the Open Web
@@ -26,6 +28,8 @@ While the Open Web develops at lightning speed, it’s easy to forget that such 
 * What can past industrial revolutions tell us about the present one we are only getting started with?&#x20;
 * How should this change our expectations for the development of cryptocurrencies, enterprise blockchain solutions, and new startups in the future?&#x20;
 * What can economic history teach current entrepreneurs and policy makers about the relationship between economic development, technology adoption, and geopolitical power?
+
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 15.03.16.png>)
 
 Economic history today is littered with debates about the first industrial revolution, the role of institutions in economic development, the limits of economic modelling and game theory in general, as well as the lessons countries can learn from the rise and fall of past empires. As hidden and opaque as the parallel universe of cryptocurrencies may appear, there is significant overlap between these two fields, to an extent that both fields have much to gain from starting a conversation and exchanging insights.
 

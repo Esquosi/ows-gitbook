@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../.gitbook/assets/Screenshot 2022-02-24 at 14.55.42.png
+coverY: 0
 ---
 
 # Africa and the Open Web

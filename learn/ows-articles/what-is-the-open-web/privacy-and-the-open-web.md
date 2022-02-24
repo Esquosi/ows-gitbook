@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../.gitbook/assets/Screenshot 2022-02-24 at 14.50.32.png
+coverY: 0
 ---
 
 # Privacy and the Open Web
@@ -12,31 +14,15 @@ As a result, countries and legislators have rushed to establish new compliance r
 
 As a result of this value proposition, many players in the industry have started competing for leadership in numerous privacy related fields.
 
-#### Monero:
-
-Monero (XMR) is an open source highly fungible cryptocurrency that gained the reputation of being the most anonymous cryptocurrency on the market. Monero’s blockchain is configured to be opaque, that is, to provide anonymity to transaction details by disguising the addresses of participants (Monero. “About Monero.” Accessed Jan. 22, 2021). Since it is able to provide intractability of transaction history it offers its user a safer network that impedes its participants to be blacklisted.
-
-#### ZCash:
-
-ZCash is another cryptocurrency that was created with the aim of improving privacy in the world of cryptocurrency. Similarly to Monero, ZCash guarantees anonymity by blurring the transaction’s information (blurring of sender and receiver addresses, and amounts of transactions). However, unlike Monero it provides the possibility to operate fully anonymous transactions or partially anonymous transactions and operates in a different way.
-
-#### Zero Knowledge Proof Transactions:
-
-Zero-Knowledge Proof Transactions are able to provide complete transactional privacy by using hash functions, which makes it possible to carry out transactions without disclosure of personal information. The only requirement to engage is that those involved in the transaction demonstrate the veracity of information that they possess, but without revealing other sensitive information.
-
-#### Data Compliance and Blockchain:
-
-Data Compliance and Blockchain: The security related attributes that blockchain technology display have a great potential to provide data protection to users. Through peer-to-peer (networking) and cryptography it allows for two major improvements: it creates an immutable database for data assurance purposes, and facilitates the exercise of individual rights (i.e. the right to be informed, right of access etc..).&#x20;
-
-#### Private Keys:
-
-Blockchain uses asymmetric cryptography to enable the exchange of assets (such as cryptocurrencies) between one person and another. Each person holding an asset (of any kind) on the blockchain has a public key - also known as an ‘address’ - and a private key. Anyone in possession of the public key used to encrypt a message will not be able to decrypt it, the only way to do this is to use the private key associated with the public key used. The use of private keys then provides an extra layer of security for those engaged in transaction.
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.50.54.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.51.30.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.51.14.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.51.08.png>) ![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.51.01.png>)
 
 ### Blockchain Technology as a Tool to Protect Privacy and Increase Security and Transparency.
 
 As explained in the introduction, a blockchain is a decentralized network in which all the records are carved in a distributed manner and shared among different devices scattered around the world. The records are kept by all members of a blockchain, and network confirmations are executed at regular intervals, linking (chained and encrypted) to the previous existing blocks. This makes the logs immutable and inviolable.
 
 With blockchain technology, instead of providing our information to centralized platforms/shops, we can store it within a decentralized ledger, free of single points of failure. That makes it possible to encode a significant number of interactions and increase reliability, eliminating the political and commercial risks associated with the process being managed by a central entity.
+
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.53.11.png>)
 
 The fact that transactions are recorded on a blockchain in the form of a hash means there is a high degree of transparency while securing the content of the recorded transaction. Transactions recorded on the blockchain take on the format of an “alphanumeric code” (which includes the date and time). Thus, its structure provides transparency while simultaneously protecting the content recorded on the network. This alphanumeric code, or hash, is the equivalent of a “fingerprint” of a piece of data that exists outside of the blockchain network. The chances of two different transactions having the same hash recorded in a blockchain are virtually zero. Thus, transparency and confidentiality can be reconciled on a blockchain.
 
@@ -47,6 +33,8 @@ As Shoshana Zuboff has pointed out in The Age of Surveillance Capitalism, big te
 Another troubling aspect of this state of affairs is that the amount of private data that these companies have access to allows them to get insights into patterns of human behavior, study emotional responses, and foresee future behavior with the help of big data analytics. This allows them to create better and more addictive products but also to develop techniques to trigger emotions and desires, and all without the consumer’s knowledge.&#x20;
 
 The adoption of a technology that prevents tech giants from holding a disproportionate amount of power and information about people becomes crucial in order to safeguard people’s political freedoms and dignity – as well as ground a vision of a better more open future. Ultimately, the Open Web, and its core underlying technology blockchain, have the capacity to ground a pathway towards a society where privacy, freedom, and transparency are provided to its citizens. It is then crucial that its development is followed, discussed, and encouraged.
+
+![](<../../../.gitbook/assets/Screenshot 2022-02-24 at 14.54.40.png>)
 
 ## A Roadmap of Future Opportunity.
 

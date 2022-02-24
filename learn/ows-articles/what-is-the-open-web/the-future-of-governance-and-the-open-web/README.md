@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.19.25.png
+coverY: 0
 ---
 
 # The Future of Governance and the Open Web
@@ -13,7 +15,7 @@ Two contrasting views on the role of blockchain have already emerged:&#x20;
 1. One advocates for maintaining the current State authority structure while using blockchain to make citizens less dependent on institutions. This pathway would focus on the public development and implementation of smart contracts, digital ownership, DAOs, etc. but beneath the central authority.
 2. Another view, instead, promotes the adoption of blockchain technology as a preliminary approach to overcome the idea of centralised political institutions. This approach focuses on the value proposition of algorithm-based distributed consensus and how it might create the conditions for a society of equals outside existing state hierarchies (Marcella Aztori, Blockchain technology and decentralised governance: Is the State still necessary?, 2017, University College of London).
 
-### The Fundamental Principles of Blockchain Governance
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.20.20.png>)
 
 Traditionally, the State has been in charge of coordinating and facilitating social and commercial engagements among groups of people. The structures put in place by the State have often been in response to historical necessities. Nevertheless, this model has two main points of failure: It lacks the necessary flexibility to provide timely responses to challenges and societal demands; and its power is based on coercion. As we progress as a society, these inefficiencies become ever more clear and unacceptable. The difference today is that we now have the means to potentially fix these problems through blockchain, by re-imagining the role of the State and the many different institutions involved in social and global governance.
 
@@ -22,6 +24,8 @@ Traditionally, the State has been in charge of coordinating and facilitating soc
 The existing governance adopted by the State, primarily relies on coercion and a hierarchical structure that people freely subjugate themselves to in return for the benefits that this structure can guarantee (i.e. things such as protection, stability, and wealth).
 
 However, as blockchain provides the means to engage into transactions of various kinds more efficiently, and without requiring the need for third parties it challenges state primacy on a variety of domains.
+
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.20.29.png>)
 
 #### Individual empowerment
 

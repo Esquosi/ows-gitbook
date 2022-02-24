@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.22.19.png
+coverY: 0
 ---
 
 # Climate Change and the Open Web
@@ -16,37 +18,13 @@ The main features of blockchain technology - decentralization, transparency and 
 
 There are various applications of blockchain technology that can help fighting climate change, the following are the most common:
 
-#### Carbon Emissions Trading&#x20;
-
-A distributed ledger can be used to enhance the carbon asset trading system. Recording carbon assets on a public blockchain would also guarantee transparency and ensure that transactions are valid and automatically settled.
-
-#### Clean Energy Trading&#x20;
-
-Blockchain technology also enables the development of platforms for peer-to-peer renewable energy trading. Consumers can now buy, sell or trade renewable energy with each other using tokens or tradable digital assets representing a certain amount of energy production. While still in its infancy, blockchain will be at the foundation of any future open-energy market.
-
-#### Climate Finance&#x20;
-
-Blockchain could help develop crowdfunding and peer-to-peer financial transactions in support of climate action while ensuring that funding is allocated to projects in a transparent manner.
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.22.28.png>) ![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.22.53.png>) ![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.22.47.png>)
 
 New applications of blockchain technology are discovered by the day, and in the past years more and more startups and projects have come to light. Currently, China is the leading country for applying blockchain solutions to increase the use of green energy and create more environmentally friendly solutions. However, there are reasons to believe that soon other countries will follow, as the issue of global warming becomes more pressing.
 
 ### Ongoing Projects
 
-#### The Open Reforestation Protocol&#x20;
-
-An open-source protocol for handling MRV initiatives, with the intention of creating a truly data-backed carbon economy. By emphasizing transparency and open-source access, ORP allows a mixture of different stakeholders working on reforestation and other carbon sequestration projects to collaborate in a manner that balances both commercial and environmental needs.
-
-#### Energy Blockchain Labs&#x20;
-
-Energy Blockchain Labs has created an efficient and transparent blockchain platform that allows high-emitting organizations to track their carbon footprint and purchase the credits they need to balance their emissions. According to IBM, its adoption could lead to a 20-50% reduction in emissions in 10 months. Moreover, this project promotes green technology by providing incentives to low- emissions organisations.
-
-#### Nori
-
-The American startup Nori has launched an open blockchain-based platform to offset CO2 emissions. The companies that adopt it are able to reset their carbon footprint by purchasing emission offset credits using a cryptocurrency. Each ton of CO2 removed will be awarded one Nori, which is a kind of cryptocurrency destined to increase in value in the future carbon market based on the supply- demand of certificates.
-
-#### Wood Tracking Protocol&#x20;
-
-The Peruvian startup Wood Tracking Protocol uses blockchain technology to bring transparency and traceability to the timber industry in South America, tracking timber at every stage from when it is harvested to when it is sold. This technology applied to the timber trade can, among other things, determine if it comes from illegal deforestation practices.
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.23.05.png>) ![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.23.27.png>) ![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.23.19.png>) ![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.23.12.png>)
 
 ## Topics to Discuss
 

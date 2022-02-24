@@ -1,5 +1,7 @@
 ---
 description: A brief overview.
+cover: ../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.15.33.png
+coverY: 0
 ---
 
 # The 4th Industrial Revolution and the Open Web
@@ -25,6 +27,8 @@ Synthetic Biology, Nanotechnology, Biotechnology, CRISPR (Prime), Epigenetics, T
 #### Digital
 
 Artificial Intelligence and Machine Learning, Big Data Analytics, the Internet of Things, Quantum Computing, Blockchain, 5G.
+
+![](<../../../../.gitbook/assets/Screenshot 2022-02-24 at 15.16.18.png>)
 
 > “Digital fabrication technologies, meanwhile, are interacting with the biological world on a daily basis. Engineers, designers, and architects are combining computational design, additive manufacturing, materials engineering, and synthetic biology to pioneer a symbiosis between microorganisms, our bodies, the products we consume, and even the buildings we inhabit.”&#x20;
 >
