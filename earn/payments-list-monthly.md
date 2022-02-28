@@ -18,7 +18,7 @@ Final payment form for January. Take the `Total NEAR Amount` for the on-chain [*
 
 N/A
 
-### NEAR price (January):&#x20;
+### NEAR price (February):&#x20;
 
 Five day average of NEAR price using the Anchored VWAP on Trading View, NEAR/USD pair.&#x20;
 
