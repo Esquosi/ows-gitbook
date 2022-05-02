@@ -1,6 +1,6 @@
 ---
 description: OWS Education / OWS Basics / What is the Open Web Sandbox?
-cover: ../../../.gitbook/assets/Announcement Banner (Twitter) (1).png
+cover: ../../../.gitbook/assets/Announcement Banner (Twitter) (1) (1).png
 coverY: 0
 ---
 
