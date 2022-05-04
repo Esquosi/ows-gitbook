@@ -9,7 +9,7 @@
 
 ## 💎 Earn
 
-* [Getting paid](earn/payments-list-monthly.md)
+* [Payment instructions](earn/payment-instructions.md)
 
 ## 🌐 Learn
 
