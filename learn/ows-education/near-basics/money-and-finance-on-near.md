@@ -47,7 +47,7 @@ On top of the regular staking rewards in $NEAR, users are also rewarded with $Me
 
 ### Decentral Bank
 
-Not much is yet known about Decentral Bank, DAO developing and supporting NEAR-native stablecoins. The first stablecoin, $USN, was just launched on April 25 and is soft-pegged by the US Dollar and backed by the fund of $NEAR and $USDT. As of 25th of April minting $USN is possible on various third party NEAR wallets, like [Sender Wallet.](https://senderwallet.io) Minting on the website of Decentral Bank will become available soon.\
+Not much is yet known about Decentral Bank, DAO developing and supporting NEAR-native stablecoins. The first stablecoin, $USN, was just launched on April 25 and is soft-pegged by the US Dollar and backed by the fund of $NEAR and $USDT. As of 25th of April minting $USN is possible on various third party NEAR wallets, like [Sender Wallet.](https://senderwallet.io/) Minting on the website of Decentral Bank will become available soon.\
 
 
 ### How will USN remain stable?

@@ -32,7 +32,7 @@ The following document is a guide template that should be used to structure the 
 There are hundreds of funding DAOs on the NEAR [Astro DAO](https://astrodao.com). This makes it difficult for a guild, project or contributor to find the right DAO to fund their proposals. There are two main ways to find the appropriate DAO.
 
 * [**NEAR Community Fund**](https://gov.near.org/t/near-community-fund/2819): a decentralised community fund of NEAR tokens for the community to redistribute democratically through DAOs. The [NEAR Governance Forum](https://gov.near.org/c/gov/6) offers an overview of how the community fund is progressing, what it is giving funding to, and what funding is available.
-* [**NEAR Grants**](https://near.org/grants/): a centralised program by the [NEAR Foundation](https://near.foundation) necessary for efficient and directed development of more integral parts of the NEAR ecosystem. If you are a project or DApp and want long term support, then the NEAR Grants program might be the right choice.
+* [**NEAR Grants**](https://near.org/grants/): a centralised program by the [NEAR Foundation](https://near.foundation/) necessary for efficient and directed development of more integral parts of the NEAR ecosystem. If you are a project or DApp and want long term support, then the NEAR Grants program might be the right choice.
 
 ## Forum Post template.
 

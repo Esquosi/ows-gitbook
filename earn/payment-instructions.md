@@ -10,7 +10,7 @@ description: >-
 
 If you are a contributor + have completed a project opportunity, then your rewards will be outlined in the table below.&#x20;
 
-{% embed url="https://airtable.com/shrysL7oeCRflUOxs" %}
+N/A
 
 ### What do I do with the information on this form?
 
@@ -42,10 +42,10 @@ That is it!&#x20;
 
 Our team will take up to 3 days maximum to process your payment proposal on-chain.&#x20;
 
-### NEAR price (April):&#x20;
+### NEAR price (`May`):&#x20;
 
 Five day average of NEAR price using the Anchored VWAP on Trading View, NEAR/USD pair.&#x20;
 
-`$15.2`
+`$5.2`
 
-![](<../.gitbook/assets/Screenshot 2022-04-26 at 15.03.14.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-31 at 13.56.12.png>)

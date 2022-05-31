@@ -25,7 +25,7 @@ You will have to share the following details about yourself: &#x20;
 
 * Email address - make sure to use the active one, we will contact you through this way if the right opportunity for you will become available
 * Your Discord or Telegram handle for optional quicker communication.
-* Your NEAR Wallet address - used for the payouts upon completion of opportunities. If you still don’t have one, you can create it really quickly following these [instructions](https://wallet.near.org).&#x20;
+* Your NEAR Wallet address - used for the payouts upon completion of opportunities. If you still don’t have one, you can create it really quickly following these [instructions](https://wallet.near.org/).&#x20;
 * Your country of residence.
 * Reasons why you have joined the Open Web Sandbox.
 * Your interests within the NEAR ecosystem.

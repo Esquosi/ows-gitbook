@@ -6,7 +6,7 @@ coverY: 0
 
 # AML/CFT Risk Assessment and Recommendations
 
-Created by **** [Santiago Chamat](https://nearlegal.com/santiago/) and [Edo Bakker](https://nearlegal.com/edo/) of the NEAR **** [Legal Guild](https://nearlegal.com)**.** Originally published [here](https://nearlegal.com/ows\_risk-assessment-recommendations/).
+Created by **** [Santiago Chamat](https://nearlegal.com/santiago/) and [Edo Bakker](https://nearlegal.com/edo/) of the NEAR **** [Legal Guild](https://nearlegal.com/)**.** Originally published [here](https://nearlegal.com/ows\_risk-assessment-recommendations/).
 
 ### **INDEX**
 

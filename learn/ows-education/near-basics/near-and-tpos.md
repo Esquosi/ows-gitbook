@@ -28,7 +28,7 @@ So, how are witnesses actually selected?\
 
 ### How are witnesses selected?
 
-Nodes that want to be selected as witnesses for epoch n+1 will submit a special transaction (StakeAction) indicating an amount of tokens staked, locking that amount in the transaction for three days. Based on the set of all special transactions submitted during epoch n, the TPoS algorithm will determine the minimum threshold of staked tokens needed to become a witness for epoch n+1. All nodes that are above the threshold will be selected as a witness, and some number of seats (out of the possible 1,474,560) relative to their staked amount will be allocated to them. Check out the [NEAR Explorer](https://explorer.near.org) to see how many witnesses (validator nodes) are currently validating the NEAR network.\
+Nodes that want to be selected as witnesses for epoch n+1 will submit a special transaction (StakeAction) indicating an amount of tokens staked, locking that amount in the transaction for three days. Based on the set of all special transactions submitted during epoch n, the TPoS algorithm will determine the minimum threshold of staked tokens needed to become a witness for epoch n+1. All nodes that are above the threshold will be selected as a witness, and some number of seats (out of the possible 1,474,560) relative to their staked amount will be allocated to them. Check out the [NEAR Explorer](https://explorer.near.org/) to see how many witnesses (validator nodes) are currently validating the NEAR network.\
 
 
 ### What do witnesses do?
@@ -50,7 +50,7 @@ In the next doc we will look at how the NEAR network uses Nightshade as a Shardi
 
 ### Sources:
 
-[Article](https://near.org/blog/thresholded-proof-of-stake/#:\~:text=NEAR%20uses%20an%20election%20mechanism,and%20establishes%20fair%20reward%20distribution.)
+[Article](https://near.org/blog/thresholded-proof-of-stake/)
 
 [NEAR Wiki](https://wiki.near.org/resources/faq/integrator-faq#validators)
 

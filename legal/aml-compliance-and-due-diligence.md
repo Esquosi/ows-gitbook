@@ -6,7 +6,7 @@ coverY: 0
 
 # AML Compliance & Due Diligence
 
-Created by **** [Santiago Chamat](https://nearlegal.com/santiago/) and [Edo Bakker](https://nearlegal.com/edo/) of the NEAR **** [Legal Guild](https://nearlegal.com)**.** Originally published [here](https://nearlegal.com/aml-compliance-and-due-diligence/).
+Created by **** [Santiago Chamat](https://nearlegal.com/santiago/) and [Edo Bakker](https://nearlegal.com/edo/) of the NEAR **** [Legal Guild](https://nearlegal.com/)**.** Originally published [here](https://nearlegal.com/aml-compliance-and-due-diligence/).
 
 ### **INDEX**
 
